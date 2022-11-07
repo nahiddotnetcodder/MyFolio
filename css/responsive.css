@@ -1,0 +1,277 @@
+@media(min-width:1200px) and (max-width:1450px){
+    #mynav ul li a {
+        font-size: 14px;
+        padding: 20px 22px;
+    }
+    #about-part, .section-heading p {
+        line-height: 46px;
+        font-size: 14px;
+    }
+    .banner-item h1 {
+        font-size: 58px;
+        letter-spacing: 15px;
+    }
+    .about-border-right {
+        border-right: 1px solid #d9dbdb;
+    }
+    #work-part .text h3{
+        font-size: 12px;
+        margin-bottom: 5px;
+        
+        
+    }
+    #work-part .text p{
+        font-size: 11px;
+        line-height: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+    #mynav ul li a {
+        font-size: 14px;
+        padding: 20px 18px;
+    }
+    .banner-item h1 {
+        font-size: 58px;
+        letter-spacing: 10px;
+    }
+    #about-part, .section-heading p {
+        line-height: 35px;
+        font-size: 13px;
+    }
+    .bold {
+        font-size: 18px;
+    }
+    .about-border-right {
+        border-right: 1px solid #d9dbdb;
+    }
+    #work-part .text h3{
+        font-size: 12px;
+        margin-bottom: 5px;
+        
+        
+    }
+    #work-part .text p{
+        font-size: 11px;
+        line-height: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+
+    }
+
+}
+@media(min-width:768px) and (max-width:991.98px){
+    #mynav ul li a {
+        padding: 18px 12px;
+    }
+    .banner-item h3 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+    .banner-item h1 {
+        font-size: 48px;
+        letter-spacing: 5px;
+    }
+    .banner-item p {
+        font-size: 15px;
+    }
+    .img-src {
+        margin-top: 38px;
+    }
+    .new-btn {
+        margin-top: 40px;
+        width: 150px;
+        font-size: 14px;
+        letter-spacing: 2px;
+        
+    }
+    #about-part, .section-heading {
+        margin-bottom: 40px;
+    }
+    .about-border-right {
+        border-right: 1px solid #d9dbdb;
+    }
+    #about-part, .section-heading p {
+        line-height: 30px !important;
+        margin: 0 25px;
+    }
+    #about-part, .section-heading span{
+        font-size: 18px;
+    }
+    #services-part .section-heading h2 {
+        font-size: 40px;
+        margin-left: 25px;
+    }
+    #services-part, .head-img {
+        padding-bottom: 22px;
+        margin-left: 25px;
+    }
+    #services-part, .service-items i {
+        margin-left: 25px;
+    }
+    .service-items h3 {
+        padding: 15px 25px;
+    }
+    .service-items p {
+        margin-left: 25px;
+    }
+    .text p {
+        margin: 12 58px;
+    }
+    .inner-contact {
+        padding-bottom: 40px;
+    }
+    #work-part .text h3{
+        font-size: 12px;
+        margin-bottom: 5px;
+        
+        
+    }
+    #work-part .text p{
+        font-size: 12px;
+        line-height: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .custom-nav {
+        padding: 10px 0;
+    }
+    #mynav ul li a {
+        padding: 9px 0px;
+    }
+    .banner-item {
+        height: 520px;
+    }
+    #about-part {
+        padding-bottom: 45px;
+    }
+    .head-img {
+        padding-bottom: 20px;
+    }
+    #about-part, .section-heading p {
+        line-height: 33px;
+        
+    }
+    #about-part, .section-heading span{
+        font-size: 16px;
+    }
+    #about-part, .section-heading {
+        margin-bottom: 30px;
+    }
+    .about-border-right {
+        border-right: 1px solid #d9dbdb;
+    }
+    #services-part, .service-items i {
+        margin: 0 10px;
+    }
+    .service-items h3 {
+        padding: 10px 10px;
+    }
+    .service-items p {
+        margin: 10px;
+    }
+    h2 {
+        font-size: 36px;
+       
+    }
+    #work-part .section-heading p {
+        margin-left: 18px;
+        margin-right: 25px;
+    }
+    #contact-part .section-heading {
+        margin-bottom: 50px;
+    }
+    #work-part .section-heading {
+        margin-bottom: 50px;
+    }
+    #work-part .text{
+        margin-top: 5px;
+    }
+    #work-part .text h3{
+        font-size: 12px;
+        margin-bottom: 5px;
+        
+        
+    }
+    #work-part .text p{
+        font-size: 12px;
+        line-height: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+
+    }
+}
+@media(max-width:575.98px){
+    .custom-nav {
+        padding: 8px 5px;
+    }
+    #mynav ul{
+        padding-top: 10px;
+    }
+    #mynav ul li a {
+        padding: 8px 2px;
+    }
+    .banner-item {
+        height: 300px;
+    }
+    h2 {
+        font-size: 36px;
+    }
+    .head-img {
+        padding-bottom: 8px;
+    }
+    #about-part, .section-heading p {
+        line-height: 32px;
+        font-size: 12px;
+    }
+    #about-part{
+        padding-bottom: 40px;
+    }
+    .bold {
+        font-size: 15px;
+    }
+    #about-part, .section-heading {
+        margin-bottom: 10px;
+    }
+    .about-items {
+        padding: 25px 20px;
+    }
+    .service-items p {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .service-items i{
+        padding: 9px;
+    }
+    .service-items h3 {
+        padding: 8px;
+    }
+    .service-items p {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    #work-part .section-heading p {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    #about-part, .section-heading p {
+        line-height: 30px !important;
+        
+    }
+    #contact-part .section-heading p {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    #work-part .section-heading {
+        margin-bottom: 40px;
+    }
+    #contact-part .section-heading {
+        margin-bottom: 50px;
+    }
+
+}
